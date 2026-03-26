@@ -2,6 +2,8 @@
 
 Welcome to the Cryptography & PKI Learning Hub! This interactive web application is designed to help students understand the core concepts of data encryption, asymmetric and symmetric cryptography, and Public Key Infrastructure (PKI). 
 
+<img width="1184" height="987" alt="image" src="https://github.com/user-attachments/assets/28ff20b6-fa3d-4f06-a5cb-a10e12e3eeb8" />
+
 ## How to Use This App for Learning
 
 The application is divided into 5 progressive steps. We highly recommend going through them in order:
