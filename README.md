@@ -4,16 +4,17 @@ Welcome to the Cryptography & PKI Learning Hub! This interactive web application
 
 ## How to Use This App for Learning
 
-This app is structured into five easy-to-follow sections. We recommend going through them in order:
+The application is divided into 5 progressive steps. We highly recommend going through them in order:
 
-1. **Basics:** Start here to understand what encryption and decryption are, and why key size matters.
-2. **Sym vs Asym:** Learn the difference between Symmetric (Secret Key) and Asymmetric (Public Key) cryptography. Pay attention to the pros and cons of each!
-3. **PKI & Certificates:** Discover how Digital Certificates and Certificate Authorities (CAs) solve the identity problem on the internet.
-4. **Simulation:** This is the fun part! Run the interactive simulation to see exactly how Alice sends a secure, signed message to Bob step-by-step. Watch the keys being used and the packet moving across the network.
-5. **DSE Mastery:** Ready for your exams? Review the "Golden Rules" cheat sheet and test your knowledge with concept-check questions and real exam-style MCQs.
+1. **Basics:** Start here to understand what Plaintext, Ciphertext, and Keys are. Learn why key size matters.
+2. **Sym vs Asym:** Discover the difference between Symmetric (Secret Key) and Asymmetric (Public Key) cryptography. Read the real-world analogies to make the concepts stick!
+3. **PKI & Certificates:** Learn how Certification Authorities (CAs) solve the "Identity Problem" on the internet and what exactly is inside a Digital Certificate.
+4. **Simulation:** **(Highly Recommended!)** Run the interactive step-by-step simulation. Watch exactly how Alice encrypts and signs a document, and how Bob decrypts and verifies it. The visual terminal will explain the security goal achieved at every step.
+5. **DSE Mastery:** Review the "Golden Rule" cheat sheet before your exams. Test your knowledge with a concept check and a real DSE past paper question, complete with detailed explanations for every option.
 
-## Features
+## Key Features
 
-*   **Bilingual Support:** Easily switch between English and Traditional Chinese (中文 / ENG) using the language button at the top right.
-*   **Interactive Simulation:** A visual, step-by-step demonstration of encryption, digital signatures, decryption, and verification.
-*   **Exam Readiness:** Includes a handy cheat sheet specifically tailored for answering exam questions correctly, along with interactive quizzes.
+* **Bilingual Support:** Instantly toggle between English and Traditional Chinese (中文) at any time to ensure you fully understand the terminology in your preferred language.
+* **Interactive Visualizations:** No more boring text walls! Watch data packets travel and transform as keys are applied.
+* **Exam-Oriented Explanations:** The content is specifically tailored to address common misconceptions and secure marks in standard examinations.
+* **Self-Contained:** The entire app runs in a single HTML file. No installation or internet connection is required once downloaded.
